@@ -1,4 +1,5 @@
-﻿using System.Net.Mime;
+//This is is test for CI/CD -Bio-ways
+using System.Net.Mime;
 using Ardalis.ListStartupServices;
 using Azure.Identity;
 using BlazorAdmin;
